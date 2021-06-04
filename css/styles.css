@@ -30,6 +30,18 @@ nav {
   width: 222px;
 }
 
+.menu-letra {
+  display: block;
+}
+
+.botao-editor {
+  display: block;
+}
+
+.botao-comunid {
+  display: block;
+}
+
 .container {
   margin-left: 215px;
 }
